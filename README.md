@@ -1,12 +1,11 @@
-###What do i do?
+What do i do?
 
   - Mostly game development
 
-###Languages i know:
+Languages i know:
 
   - C++
   - GML
 
-###I ONLY use windows
+I ONLY use windows
 
-###
