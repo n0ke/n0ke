@@ -1,11 +1,21 @@
-What do i do?
+what do i do?
 
-  - Mostly game development
+  - mostly game development
 
-Languages i know:
+languages i know:
 
   - C++
   - GML
 
-I ONLY use windows
+languages i speak:
 
+  - Portuguese/português(BR)
+  - English
+
+here's my behance page:
+
+  - https://www.behance.net/lucasestevao6
+
+here's my discord:
+
+  - n0ke#7551
