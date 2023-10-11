@@ -4,7 +4,7 @@ what do i do?
 
 languages i know:
 
-  - C/C++
+  - C
   - GML
   - Java
 
